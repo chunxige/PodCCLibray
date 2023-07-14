@@ -7,18 +7,17 @@
 //
 
 import UIKit
+import PodCCLibray
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        let p = Person.init(name: "aaaa", age: 1111)
+        p.work()
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
+     
 
 }
 
