@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'PodCCLibray_Example' do
+  pod 'PodCCLibray', :path => '../'
+
+  target 'PodCCLibray_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
