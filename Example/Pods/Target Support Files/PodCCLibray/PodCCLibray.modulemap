@@ -1,0 +1,6 @@
+framework module PodCCLibray {
+  umbrella header "PodCCLibray-umbrella.h"
+
+  export *
+  module * { export * }
+}
