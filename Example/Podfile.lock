@@ -1,5 +1,5 @@
 PODS:
-  - PodCCLibray (0.1.0)
+  - PodCCLibray (1.0.0)
 
 DEPENDENCIES:
   - PodCCLibray (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PodCCLibray: 5c552a7932cf64b950a466135c9ea7f3063673c3
+  PodCCLibray: 5f01b4713e6154a839d1224c8fd3bbbd28ba9159
 
 PODFILE CHECKSUM: dd360e8872ffff355cf036d757cd555a7034683d
 
