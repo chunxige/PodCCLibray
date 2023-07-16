@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PodCCLibray'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '测试如何创建公有PodCCLibray.'
 
 # This description is used to generate tags and improve search results.

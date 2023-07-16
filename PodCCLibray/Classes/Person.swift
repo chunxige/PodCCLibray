@@ -20,3 +20,8 @@ public struct Person {
         print("work")
     }
 }
+
+
+public struct Dog {
+    public var name: String
+}
